@@ -1,3 +1,3 @@
 ##### В процессе разработки
-##### Live-версия проекта доступна по ссылке https://shkirenkoroma.github.io/LearningVanillaJS/
+##### Live-версия проекта доступна по ссылке: https://shkirenkoroma.github.io/LearningVanillaJS/
  
